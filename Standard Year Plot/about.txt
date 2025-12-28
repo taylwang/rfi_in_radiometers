@@ -1,0 +1,1 @@
+Plots all data types associated with a NYS weather radiometer in a year-long span, including voltage, brightness temperature, water vapor, and more.

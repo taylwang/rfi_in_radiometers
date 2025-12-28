@@ -1,0 +1,3 @@
+Creates an array of RFI instances for radiometer locations listed.
+
+The array's layers go as follows: frequency -> year -> day -> [RFI instances, voltage values, brightness temperature values, vapor values]. This array formatting is especially useful for creating the New York State RFI maps.

@@ -1,0 +1,1 @@
+Creates a map of the interference at each radiometer location in New York State
