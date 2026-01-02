@@ -1,3 +1,0 @@
-Aligns brightness temperature data and water vapor data according to time.
-
-Many times, the brightness temperature data and water vapor data have different lengths, making their indices unaligned with respect to time. date_alignment.py shortens the longer of the two datasets and aligns their indices according to time, allowing for easy comparison between brightness temperature and water vapor. This time alignment is especially useful for the neural network, which converts brightness temperature to water vapor.
